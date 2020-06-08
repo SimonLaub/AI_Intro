@@ -1,2 +1,2 @@
 # AI_Intro
-Materials from AI Introduction 
+Materials from AI Introduction Course
